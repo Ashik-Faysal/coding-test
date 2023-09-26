@@ -2,4 +2,4 @@
 
 </br>
 
-##Live_link:  <a href="https://coding-test-inky.vercel.app/">View Live Website-vercel</a>
+##Live_link:  <a href="https://coding-test-inky.vercel.app/">Live Website</a>
